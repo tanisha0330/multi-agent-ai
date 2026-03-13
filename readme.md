@@ -1,7 +1,7 @@
 # Multi-Agent AI Blog Post Creator
 
 ## Overview
-This project is a beginner-friendly multi-agent AI system designed to autonomously research, plan, write, and edit high-quality blog posts [1]. Created by ML Engineer Sreemanti Dey, it demonstrates how a team of specialized AI agents can collaborate to replicate and automate traditional content creation workflows [1, 2]. 
+This project is a beginner-friendly multi-agent AI system designed to autonomously research, plan, write, and edit high-quality blog posts .
 
 The system is built using the **OpenAI Swarm** package, a framework that facilitates the creation, interaction, and context management of multiple AI agents [3, 4].
 
